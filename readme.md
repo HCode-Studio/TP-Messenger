@@ -13,7 +13,7 @@ Quel que soit votre niveau, vous allez apprendre beaucoup et surtout, créer une
 
 Alors, préparez vos environnements de développement, et plongeons ensemble dans ce TP ! 🚀
 
-
+[Firebase - Qu'est ce que c'est ?](https://docs.google.com/presentation/d/1w4eineukg0occS2LyFTOdvh60WSRqwHBuGdyFwrwxsI/edit#slide=id.g91accc5f5f_0_53)
 ## Objectifs du TP 📋
 
 1. Maîtriser la configuration d'un projet React Native sans expo 💪
