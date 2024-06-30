@@ -6,8 +6,8 @@ Bienvenue à ce TP amusant et éducatif. Aujourd'hui, nous allons ensemble const
 
 ### Objectifs du TP 📋
 
-1. Configurer un projet React Native de zéro.
-2. Intégrer Firebase pour l’authentification et le stockage des messages.
+1. Créer un projet React Native sans expo.
+2. Intégrer Firebase pour l’authentification et le stockage et l'upload de fichier.
 3. Utiliser React Navigation pour une navigation intuitive.
 4. Créer des interfaces attrayantes avec Gluestack UI.
 
@@ -19,43 +19,12 @@ Bienvenue à ce TP amusant et éducatif. Aujourd'hui, nous allons ensemble const
 - [Console Firebase](https://console.firebase.google.com/)
 - [Gluestack UI](https://gluestack-ui-docs.com)
 
-### Pré-requis 👨‍💻
+### Cahier des charges 🛠️
 
-- Connaissance en JavaScript
-- Environnement de développement configuré (Node.js, Android Studio/Xcode)
+#### Contexte et besoin
 
-### Étapes de l'Exercice 🛠️
+Dans ce projet, vous allez développer une application de messagerie pour mobile en utilisant les technologies React Native, Firebase, React Navigation et Gluestack UI. L'application doit permettre aux utilisateurs de s'inscrire, de se connecter, de compléter leur profil, d'envoyer et recevoir des messages avec les différent utilisateurs inscrit et connécté, et de gérer leurs paramètres. Voici les détails du cahier des charges :
 
-#### Étape 1: Initialiser le projet React Native
-
-1. **Créer un nouveau projet React Native**
-
-```bash
-npx react-native init MyMessagingApp
-cd MyMessagingApp
-```
-
-2. **Intégrer Firebase**
-
-```bash
-npm install @react-native-firebase/app @react-native-firebase/auth @react-native-firebase/firestore
-```
-
-3. **Configurer Firebase**
-   - Suivre les instructions dans la [documentation officielle](https://rnfirebase.io/)
-
-#### Étape 2: Installer React Navigation
-
-```bash
-npm install @react-navigation/native @react-navigation/native-stack @react-navigation/bottom-tabs
-npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated
-```
-
-#### Étape 3: Ajouter Gluestack UI
-
-```bash
-npm install gluestack-ui
-```
 
 ### Routes de l'Application 🌐
 
