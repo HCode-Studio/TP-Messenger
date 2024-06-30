@@ -16,6 +16,7 @@ Bienvenue à ce TP amusant et éducatif. Aujourd'hui, nous allons ensemble const
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [React Navigation](https://reactnavigation.org/docs/getting-started)
 - [Firebase pour React Native](https://rnfirebase.io/)
+- [Console Firebase](https://console.firebase.google.com/)
 - [Gluestack UI](https://gluestack-ui-docs.com)
 
 ### Pré-requis 👨‍💻
