@@ -9,12 +9,6 @@ Durant ce TP, vous allez apprendre à configurer un projet complet sans utiliser
 
 Préparez-vous à relever ce défi et à enrichir vos compétences de développeur mobile. Chaque étape vous guidera pour construire une application de messagerie performante et bien structurée, en passant par les routes d'authentification jusqu'aux paramètres utilisateurs, en y ajoutant une pincée de créativité pour d'autres fonctionnalités.
 
-Objectifs :
-Maîtriser la configuration d'un projet React Native from scratch.
-Intégrer Firebase pour l'authentification et le stockage des messages.
-Naviguer avec aisance grâce à React Navigation.
-Créer une interface utilisateur réactive et moderne avec Gluestack UI.
-
 Quel que soit votre niveau, vous allez apprendre beaucoup et surtout, créer une application sur laquelle vous pourrez être fier. 
 
 Alors, préparez vos environnements de développement, et plongeons ensemble dans ce TP ! 🚀
@@ -25,7 +19,7 @@ Alors, préparez vos environnements de développement, et plongeons ensemble dan
 1. Maîtriser la configuration d'un projet React Native sans expo 💪
 2. Découvrir la puissance de Firebase pour l'authentification et le stockage de données et de fichier 🔥
 3. Naviguer entre les screens imbriqué grâce à React Navigation 🧭
-4. Créer une interface utilisateur avec Gluestack UI 🎨
+4. Créer une interface utilisateur réactive et moderne avec Gluestack UI 🎨
 
 ### Proposition de maquette
 Pour rendre le projet un peu plus cool, voici les maquettes Figma du design de l'application pour vous inspirer: [Maquettes](https://www.figma.com/design/bV4n2yGOYxyisBcDk2pHB2/Messenger-App?m=dev&node-id=0-1&t=AZuadJYdEW5Ezz04-1)
