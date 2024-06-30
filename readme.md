@@ -1,6 +1,6 @@
-## TP: Créez Votre Application de Messagerie avec React Native 🎉
+# TP: Créez Votre Application de Messagerie avec React Native 🎉
 
-### Introduction
+## Introduction
 
 Bienvenue dans ce TP où vous allez plonger dans le développement mobile avec React Native. 🌟 
 Imaginez une application de messagerie élégante, performante et totalement fonctionnelle, le tout développé par vous ! 🎯
@@ -14,17 +14,17 @@ Quel que soit votre niveau, vous allez apprendre beaucoup et surtout, créer une
 Alors, préparez vos environnements de développement, et plongeons ensemble dans ce TP ! 🚀
 
 
-### Objectifs du TP 📋
+## Objectifs du TP 📋
 
 1. Maîtriser la configuration d'un projet React Native sans expo 💪
 2. Découvrir la puissance de Firebase pour l'authentification et le stockage de données et de fichier 🔥
 3. Naviguer entre les screens grâce à React Navigation 🧭
 4. Créer une interface utilisateur réactive et moderne avec Gluestack UI 🎨
 
-### Proposition de maquette
+## Proposition de maquette
 Pour rendre le projet un peu plus cool, voici les maquettes Figma du design de l'application pour vous inspirer: [Maquettes](https://www.figma.com/design/bV4n2yGOYxyisBcDk2pHB2/Messenger-App?m=dev&node-id=0-1&t=AZuadJYdEW5Ezz04-1)
 
-### Documentation Pratique 📚
+## Documentation Pratique 📚
 
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [React Navigation](https://reactnavigation.org/docs/getting-started)
@@ -32,27 +32,27 @@ Pour rendre le projet un peu plus cool, voici les maquettes Figma du design de l
 - [Console Firebase](https://console.firebase.google.com/)
 - [Gluestack UI](https://gluestack-ui-docs.com)
 
-### Cahier des charges 🛠️
+## Cahier des charges 🛠️
 
-#### Contexte et besoin
+### Contexte et besoin
 
 Dans ce projet, vous allez développer une application de messagerie pour mobile en utilisant les technologies React Native, Firebase, React Navigation et Gluestack UI. L'application doit permettre aux utilisateurs de s'inscrire, de se connecter, de compléter leur profil, d'envoyer et recevoir des messages avec les différents utilisateurs inscrits. 
 
 Voici la liste des fonctionnalités principales :
 
-#### Authentification
+### Authentification
 
 Utiliser Firebase Authentication pour créer un compte et vous authentifier
 
 - Connexion utilisateur
 - Création de compte utilisateur
 
-#### Complétion de Profil
+### Complétion de Profil
 
 Créer votre premier document sur Firestore pour enregistrer les données de l'utilisateur
 - Complétion de profil
 
-#### Accueil
+### Accueil
 
 Créer les différent model de données sur firestore pour enregistrer les discussions et les messages
 
@@ -68,7 +68,7 @@ Utiliser la librairie [React native gifted chat](https://www.npmjs.com/package/r
   - Envoi et réception de messages
 - Historique des messages
 
-#### Paramètres
+### Paramètres
 
 Liste des paramètres
 - Gestion des paramètres utilisateur (update du profil)
@@ -77,20 +77,20 @@ Liste des paramètres
 - CGU
 - Autres ...
 
-### Routes de l'Application 🌐
+## Routes de l'Application 🌐
 
 Utilister react navigation afin de préparer les différents screens répartient en différentes Stack (groupe de routes) afin d'organiser votre architecture 
 Nous utiliserons des Stack pour grouper les routes ainsi qu'un Drawer afin de naviguer entre les stacks
 
-#### Stack Routes d'authentification [AuthStack]
+### Stack Routes d'authentification [AuthStack]
 - **Connexion utilisateur**
 - **Création d'un compte utilisateur**
 
-#### Route de complétion de profile
+### Route de complétion de profile
 - **Complétion de Profil**:
   - Vérifiez si le profil de l'utilisateur est complet dans la db de firebase, sinon, redirigez vers le formulaire de complétion.
 
-#### Stack Routes de l'application [HomeStack contenant la Bottom Tab Navigator] 
+### Stack Routes de l'application [HomeStack contenant la Bottom Tab Navigator] 
 - **Accueil**:
   - Listes des discussions
   - Listes des utilisateurs (connectés/hors ligne)
@@ -100,7 +100,7 @@ Nous utiliserons des Stack pour grouper les routes ainsi qu'un Drawer afin de na
 - **Notifications** (optionnel si le temps nous le permet):
   - Gérer les notifications de nouveaux messages.
     
-#### Stack Routes des Paramettres [SettingsStack] 
+### Stack Routes des Paramettres [SettingsStack] 
 - **Paramètres**:
   - Listage des paramètres
   - Bouton de déconnexion
@@ -108,9 +108,9 @@ Nous utiliserons des Stack pour grouper les routes ainsi qu'un Drawer afin de na
 
 Petit schema afin de visualiser tout ça : [MindMapRouter](https://www.figma.com/board/OtO6FPY3oE2OMpuMiqsHmH/MindMap-Router-Messenger-App?node-id=0-1&t=gY8qnOVgXnlSdOO1-1)
 
-### Modèles de Données Firestore 🗃️
+## Modèles de Données Firestore 🗃️
 
-#### Utilisateurs
+### Utilisateurs
 
 ```json
 {
@@ -125,7 +125,7 @@ Petit schema afin de visualiser tout ça : [MindMapRouter](https://www.figma.com
 }
 ```
 
-#### Discussions
+### Discussions
 
 ```json
 {
@@ -142,7 +142,7 @@ Petit schema afin de visualiser tout ça : [MindMapRouter](https://www.figma.com
 }
 ```
 
-#### Messages
+### Messages
 
 ```json
 {
@@ -196,7 +196,7 @@ Voici quelques outils supplémentaires pour booster votre développement :
 **On pense à créer un trello pour lister ses tâches plus en détail et suivre l'avancé du projet évidement**  
 
 
-### Ressources 🌟
+## Ressources 🌟
 
 - [Firebase react native](https://snowpact.com/blog/firebase-react-native)
 - [Build a Realtime Chat App with React Native and Firebase](https://www.youtube.com/watch?v=Ov3Z3vD5zFw)
