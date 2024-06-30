@@ -157,7 +157,6 @@ Petit schema afin de visualiser tout ça : [MindMapRouter](https://www.figma.com
 }
 ```
 
----
 
 ## Librairies Tierces Utiles :wrench:
 
@@ -166,8 +165,6 @@ Voici quelques outils supplémentaires pour booster votre développement :
 - **Redux** - Pour une gestion d'état impeccable :control_knobs:
 - **MobX** - Un autre allié de choix pour une gestion d'état efficace :toolbox:
 - **Lottie for React Native** - Ajoutez une touche d'animation pour épater vos utilisateurs :movie_camera:
-
----
 
 ## Liste des Tâches :pencil:
 
