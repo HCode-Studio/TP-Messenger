@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Bienvenue dans ce TP captivant où vous allez plonger dans le développement mobile avec React Native. 🌟 
+Bienvenue dans ce TP où vous allez plonger dans le développement mobile avec React Native. 🌟 
 Imaginez une application de messagerie élégante, performante et totalement fonctionnelle, le tout développé par vous ! 🎯
 
 Durant ce TP, vous allez apprendre à configurer un projet complet sans utiliser Expo. Vous découvrirez comment intégrer Firebase pour gérer l'authentification et la base de données en temps réel, utiliser React Navigation pour une navigation fluide entre les différentes pages, et styliser votre application avec Gluestack UI pour une interface utilisateur moderne et intuitive.
@@ -18,7 +18,7 @@ Alors, préparez vos environnements de développement, et plongeons ensemble dan
 
 1. Maîtriser la configuration d'un projet React Native sans expo 💪
 2. Découvrir la puissance de Firebase pour l'authentification et le stockage de données et de fichier 🔥
-3. Naviguer entre les screens imbriqué grâce à React Navigation 🧭
+3. Naviguer entre les screens grâce à React Navigation 🧭
 4. Créer une interface utilisateur réactive et moderne avec Gluestack UI 🎨
 
 ### Proposition de maquette
