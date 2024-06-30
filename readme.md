@@ -186,7 +186,7 @@ Voici quelques outils supplémentaires pour booster votre développement :
 6. **Ajouter les Pages de Discussion et de Paramètres** :speech_balloon::gear:
    - Créer les composants de messagerie et de paramètres.
 
-7. **Intégrer les Notifications (optionnel)** :bell:
+7. **Intégrer les Notifications** :bell:
    - Ajouter une gestion des notifications pour les nouveaux messages.
 
 
