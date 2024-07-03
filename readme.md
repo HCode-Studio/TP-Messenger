@@ -30,7 +30,7 @@ Pour rendre le projet un peu plus cool, voici les maquettes Figma du design de l
 - [React Navigation](https://reactnavigation.org/docs/getting-started)
 - [Firebase pour React Native](https://rnfirebase.io/)
 - [Console Firebase](https://console.firebase.google.com/)
-- [Gluestack UI](https://gluestack-ui-docs.com)
+- [Gluestack UI](https://gluestack.io/ui/docs/home/overview/introduction)
 
 ## Cahier des charges 🛠️
 
